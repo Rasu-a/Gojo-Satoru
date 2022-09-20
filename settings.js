@@ -15,25 +15,25 @@ global.APIs = {
 
 //Api Key\\
 global.APIKeys = {
-	'https://zenzapis.xyz': 'sanzychan01', //credit goes to sanzy yt, if api key expire, buy it and put it here?\\
+	'https://zenzapis.xyz': 'ras17', //credit goes to sanzy yt, if api key expire, buy it and put it here?\\
 }
 
 //customize settings\\
-global.owner = ['Your Number']
-global.premium = ['Your Number']
-global.ownernomer = 'Your Number'
-global.ownername = '🐦Star Boy Nexus'
-global.botname = 'Gojo-Satoru'
-global.footer = '©NexusNwInc.'
-global.ig = 'https://github.com/nexusNw'
-global.region = 'India, South India, Kerala'
-global.sc = 'https://github.com/nexusNw/Gojo-Satoru'
-global.myweb = 'https://youtube.com/channel/UCqoUjPvDdb0kjXNYdvPPpHQ'
-global.packname = 'Gojo-Satoru'
-global.author = '🐦Star Boy Nexus'
+global.owner = ['601117176162']
+global.premium = ['601117176162']
+global.ownernomer = '601117176162'
+global.ownername = 'R'
+global.botname = 'MeowBot'
+global.footer = 'MeowBot.'
+global.ig = 'https://github.com/'
+global.region = 'Perak, Malaysia'
+global.sc = 'https://github.com'
+global.myweb = 'https://youtube.com'
+global.packname = 'MeowBot'
+global.author = 'R'
 global.sessionName = 'session'
-global.prefa = ['','!','.','🐦','🐤','🗿']
-global.sp = '⭔'
+global.prefa = ['.']
+global.sp = '.'
 global.mess = {
     success: 'Done ✓',
     admin: 'This Feature Is Only For Admin!',
